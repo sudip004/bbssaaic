@@ -1,4 +1,4 @@
-const val =5;
+constt val =5;
 
 console.log("Sudip bask roll is ",val);
 console.log("GoodBoy !!!");
